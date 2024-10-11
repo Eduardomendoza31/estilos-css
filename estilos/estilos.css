@@ -1,0 +1,19 @@
+/*h1, a, div,p{
+    background: orange;
+}*/
+body{
+    background: url(../img/imgen\ html.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 100px;
+    color: blue;
+}
+div{
+    width: 120px;
+    height: 500px;
+    background: #ff800f;
+    margin: 20px 50px;
+    padding: 20px;
+    border: 10px solid #000;
+    display: inline-block;
+}
